@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "914352196749",
+    "firebase_url": "https://renting-wala-27d06-default-rtdb.firebaseio.com",
+    "project_id": "renting-wala-27d06",
+    "storage_bucket": "renting-wala-27d06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914352196749:android:ee37314f98f2d15af866c4",
+        "android_client_info": {
+          "package_name": "com.example.borezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914352196749-9bokch2ekh86dd9fkdrigmv076vvo7pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQduY28OYEnsvlmPVEakcufVeH8KBDBOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914352196749-9bokch2ekh86dd9fkdrigmv076vvo7pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
